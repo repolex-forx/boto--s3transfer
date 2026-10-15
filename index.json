@@ -1,0 +1,11 @@
+{
+  "org": "boto",
+  "repo": "s3transfer",
+  "versions": [
+    {
+      "commit": "0ab921d7a0eb79c2a87d7a8b99d44c5066406c6b",
+      "tag": "",
+      "parsed_at": "2026-10-15T11:24:05.834130+00:00"
+    }
+  ]
+}
