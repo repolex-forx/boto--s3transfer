@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/boto/s3transfer/commit/0ab921d7a0eb79c2a87d7a8b99d44c5066406c6b",
       "git:hexsha": "0ab921d7a0eb79c2a87d7a8b99d44c5066406c6b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/boto/s3transfer/commit/e9b5c6f9164f73146f01ccd0a15bdf9f02a5eec9",
